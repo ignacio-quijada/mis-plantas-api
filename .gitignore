@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+env/
+
+# Base de datos local de prueba
+db.sqlite3
+
+# Archivos basura temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuraciones del editor
+.vscode/
+.idea/
